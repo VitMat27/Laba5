@@ -215,16 +215,19 @@
 ```
 
 
-<h1 align = "center">Результат HTML</h1>
+<h1 align = "center">Результат PHP</h1>
 
 <ol>
     <li>
     <div style="display: flex; flex-direction: column">
         <div>Задания PHP</div>
-        <img height=900px" width="700px" src="">
+        <img height=400px" width="900px" src="Лаба 5/1.png">
+        <img height=400px" width="900px" src="Лаба 5/2.png">
+        <img height=400px" width="900px" src="Лаба 5/3.png">
+        <img height=400px" width="900px" src="Лаба 5/4.png">
     </div>
   </li>
 </ol>
 
 <h1 align = "center">Вывод</h1>
-<p>По итогу проделанной лабораторной работы, была создана страница по образцу</p>
+<p>По итогу проделанной лабораторной работы, были выполнены задания по JS и PHP</p>
