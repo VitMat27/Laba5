@@ -225,6 +225,8 @@
         <img height=400px" width="900px" src="Лаба 5/2.png">
         <img height=400px" width="900px" src="Лаба 5/3.png">
         <img height=400px" width="900px" src="Лаба 5/4.png">
+        <img height=400px" width="900px" src="5.png">
+        <img height=400px" width="900px" src="6.png">
     </div>
   </li>
 </ol>
