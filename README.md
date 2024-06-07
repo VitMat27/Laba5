@@ -1,4 +1,4 @@
-![image](https://github.com/VitMat27/Laba5/assets/161089424/5ae0690f-6eba-46cb-ad5e-82a73b7fa433)<p align = "center">МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ<br>
+<p align = "center">МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ<br>
 РОССИЙСКОЙ ФЕДЕРАЦИИ<br>
 ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ<br>
 ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ<br>
@@ -221,7 +221,7 @@
     <li>
     <div style="display: flex; flex-direction: column">
         <div>Задания PHP</div>
-        <img height=900px" width="700px" src="report/1.png">
+        <img height=900px" width="700px" src="">
     </div>
   </li>
 </ol>
